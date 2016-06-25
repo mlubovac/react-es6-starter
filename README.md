@@ -1,1 +1,1 @@
-# react-es6-starter
+ReactJS ES6 Starter app
